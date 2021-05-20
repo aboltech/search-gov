@@ -151,7 +151,7 @@ group :development, :test do
   gem 'pry-rails', '~> 0.3.6'
   gem 'awesome_print'
   gem 'mry', '0.59.0.0'
-  gem 'puma', '~> 3.12'
+  gem 'puma', '~> 4.3'
 end
 
 group :test do
