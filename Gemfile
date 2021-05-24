@@ -60,7 +60,7 @@ gem 'turbolinks', '~> 5.0.1'
 gem 'will_paginate-bootstrap', '~> 1.0.1'
 gem 'virtus', '~> 1.0.5'
 gem 'truncator', '~> 0.1.7'
-gem 'em-http-request', '~> 1.1.5'
+gem 'em-http-request', '~> 1.1.6'
 gem "validate_url", '= 0.2.0' # Newer versions use Addressable::URI for validation, which is more permissive than what we want
 gem 'elasticsearch', '~> 7.4.0'
 gem 'elasticsearch-xpack', '~> 7.4.0'
